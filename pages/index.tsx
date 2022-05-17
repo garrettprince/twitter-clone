@@ -26,7 +26,9 @@ const Home = ({ tweets }: Props) => {
 
         <Sidebar />
 
-        <Feed />
+        <Feed 
+          tweets={tweets}
+        />
 
         <Widgets />
 
