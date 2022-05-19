@@ -1,6 +1,5 @@
 # Twitter Clone
 > Working Twitter clone with Tweets and Comments. Based on Sonny Sangha's Twitter Clone tutorial.
-> Live demo [_here_](https://www.example.com). 
 
 ## Table of Contents
 * [General Info](#general-information)
