@@ -1,6 +1,6 @@
 # Twitter Clone
 
-> Working Twitter clone with Tweets and Comments. Based on Sonny Sangha's Twitter Clone tutorial. [Live Demo Here](twitter-clone-smoky-seven.vercel.app)
+> Working Twitter clone with Tweets and Comments. Based on Sonny Sangha's Twitter Clone tutorial. [Live Demo Here](https://twitter-clone-smoky-seven.vercel.app)
 
 ## Table of Contents
 
